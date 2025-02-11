@@ -32,5 +32,5 @@ Este proyecto parte de una imagen base de Debian (sin nada instalado) para crear
 Desde el directorio raíz del proyecto (donde se encuentra el `Dockerfile`), ejecuta el siguiente comando para construir la imagen:
 
 ```bash
-docker build -t ejercicio3_debian_apache_php .
+docker build -t debian_apache_php .
 
